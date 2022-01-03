@@ -24,7 +24,7 @@
 <br>
 <code> sudo pip3 install pyTelegramBotAPI</code>
 <br>
-<code>git clone https://github.com//Unf-Team/UNF-ROBOT.git</code>
+<code>git clone https://github.com//Unix-IR/UNF-ROBOT.git</code>
 <br>
 <code>cd UNF-ROBOT</code>
 <br>
